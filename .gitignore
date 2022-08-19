@@ -1,0 +1,4 @@
+*.pth
+*.hdf5
+!spec/*.pth
+!spec/*.hdf5
